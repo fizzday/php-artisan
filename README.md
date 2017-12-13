@@ -140,4 +140,4 @@ class FizzModel extends Model
 }
 ```
 
-## todo 
+## todo
